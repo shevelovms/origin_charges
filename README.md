@@ -40,13 +40,14 @@ The analysis was guided by the following business questions:
 ---
 
 ## 🗂️ Repository Structure
+```
 origin-fees-analysis/
 │
 ├── presentation/
 │ └── Origin_Fees_Analysis_Presentation.pdf
 │
 └── README.md
-
+```
 ---
 
 ## ⚙️ Technical Process
